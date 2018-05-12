@@ -5,4 +5,4 @@
 
 #then start your project from index.html file
 #and scss code write in style.scss
-#/json server port change/json-server -p 4000 db.json
+#/json server port change command: json-server -p 4000 db.json
